@@ -24,7 +24,7 @@ Please see our short paper in HRI 2026 for an overview:
     - [MoCap Marker Plates](/CAD%20Files/Testbed%20Components/MoCap%20Marker%20Plates/) - Models for attaching reflective mocap markers to the camera cold shoe mounts
     - [Raspberry Pi](/CAD%20Files/Testbed%20Components/Raspberry%20Pi/) - RP case models
     - 'NIST - Espressif ESP32-C3-DevKitC Case.stl' - Custom-designed case for ESP32
-    - 'Laser_Diode_Holder.step' - 
+    - 'Laser_Diode_Holder.step' - A custom holder for a laser diode used to help with shotgun mic alignment
 
 [Design Documentation](/Design%20Documentation/)
 - Diagrams, Bill of Materials, process description, design notes, and other instructions for running components of the testbed
