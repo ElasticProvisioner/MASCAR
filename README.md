@@ -3,6 +3,8 @@
 # MASCAR
 Assets and codebase for the Multi-Agent Synchronized Collaborative Assembly Replication (MASCAR) testbed.  This testbed was developed by the Collaborative Robotics Lab at the National Institute of Standards and Technology.
 
+*For questions, contact:*  megan.zimmerman@nist.gov
+
 # Overview Video
 View here:  https://youtu.be/IEJgwW6c2EQ
 
